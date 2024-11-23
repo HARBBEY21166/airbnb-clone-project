@@ -170,7 +170,152 @@ Understanding and documenting design properties is crucial for several reasons:
    - Provides a single source of truth for design decisions
    - Facilitates design system documentation
 
-[Rest of the previous README content remains the same...]
+
+## Project Roles and Responsibilities
+
+The success of our AirBnB Clone Project relies on clear definition of roles and effective collaboration among team members. Below are the key roles and their responsibilities:
+
+### Project Manager (PM)
+- **Core Responsibilities:**
+  - Overall project planning and execution
+  - Resource allocation and timeline management
+  - Risk assessment and mitigation
+  - Stakeholder communication
+  - Progress monitoring and reporting
+
+- **Project Contribution:**
+  - Ensures project stays on schedule and within scope
+  - Facilitates team communication and collaboration
+  - Removes obstacles and resolves conflicts
+  - Makes critical project decisions
+  - Maintains project documentation
+
+### Frontend Developers
+- **Core Responsibilities:**
+  - Implementation of user interface components
+  - React/TypeScript development
+  - Integration with backend APIs
+  - Performance optimization
+  - Client-side testing
+
+- **Project Contribution:**
+  - Creates responsive and interactive UI
+  - Ensures cross-browser compatibility
+  - Implements state management solutions
+  - Maintains code quality and standards
+  - Collaborates with designers for pixel-perfect implementation
+
+### Backend Developers
+- **Core Responsibilities:**
+  - Server-side logic implementation
+  - Database design and management
+  - API development and documentation
+  - Security implementation
+  - Performance optimization
+
+- **Project Contribution:**
+  - Builds robust and scalable backend systems
+  - Ensures data integrity and security
+  - Creates efficient API endpoints
+  - Manages server infrastructure
+  - Implements business logic
+
+### Designers
+- **Core Responsibilities:**
+  - UI/UX design creation
+  - Wireframe and prototype development
+  - Design system maintenance
+  - User research and testing
+  - Visual asset creation
+
+- **Project Contribution:**
+  - Ensures consistent user experience
+  - Creates intuitive user interfaces
+  - Develops responsive designs
+  - Maintains brand consistency
+  - Provides design documentation
+
+### QA/Testers
+- **Core Responsibilities:**
+  - Test plan development
+  - Manual and automated testing
+  - Bug reporting and tracking
+  - Regression testing
+  - User acceptance testing
+
+- **Project Contribution:**
+  - Ensures product quality
+  - Identifies and documents issues
+  - Verifies bug fixes
+  - Maintains testing documentation
+  - Provides feedback for improvement
+
+### DevOps Engineers
+- **Core Responsibilities:**
+  - CI/CD pipeline setup and maintenance
+  - Infrastructure management
+  - Deployment automation
+  - Performance monitoring
+  - Security implementation
+
+- **Project Contribution:**
+  - Ensures smooth deployment process
+  - Maintains system reliability
+  - Implements scaling solutions
+  - Manages development environments
+  - Provides technical documentation
+
+### Product Owner (PO)
+- **Core Responsibilities:**
+  - Product vision maintenance
+  - Backlog management
+  - Feature prioritization
+  - Stakeholder management
+  - Requirements definition
+
+- **Project Contribution:**
+  - Ensures product value delivery
+  - Makes product-related decisions
+  - Provides clear requirements
+  - Manages stakeholder expectations
+  - Validates product features
+
+### Scrum Master
+- **Core Responsibilities:**
+  - Agile process facilitation
+  - Sprint planning and review
+  - Team coaching
+  - Impediment removal
+  - Process improvement
+
+- **Project Contribution:**
+  - Ensures agile best practices
+  - Facilitates team ceremonies
+  - Promotes team collaboration
+  - Removes team blockers
+  - Drives continuous improvement
+
+### Team Collaboration Guidelines
+1. **Communication Channels**
+   - Daily stand-ups
+   - Weekly team meetings
+   - Project management tools
+   - Code review sessions
+   - Documentation updates
+
+2. **Best Practices**
+   - Regular code reviews
+   - Pair programming sessions
+   - Knowledge sharing
+   - Documentation maintenance
+   - Cross-functional collaboration
+
+3. **Success Metrics**
+   - Sprint velocity
+   - Code quality metrics
+   - Bug resolution time
+   - Feature completion rate
+   - Team velocity
 
    
 
