@@ -98,12 +98,13 @@ A user-friendly design is crucial for a successful booking system for several re
 
 #### Color Palette
 - **Primary Colors**
-  - Brand Primary: `#FF5A5F` (AirBnB Red)
-  - Brand Secondary: `#00A699` (Teal)
-  
+  - Brand Primary: `#34967C`
+  - Brand Secondary: `#222222`
+
+ ]+"[-4`11q245 
 - **Neutral Colors**
-  - Dark Gray: `#484848` (Primary Text)
-  - Medium Gray: `#767676` (Secondary Text)
+  - White: `#FFFFFF` (Primary Text)
+  - Medium Gray: `#CACACA` (Secondary Text)
   - Light Gray: `#EBEBEB` (Borders)
   - Off White: `#F7F7F7` (Background)
   - White: `#FFFFFF` (Card Background)
@@ -117,8 +118,8 @@ A user-friendly design is crucial for a successful booking system for several re
 #### Typography
 
 - **Font Families**
-  - Primary Font: `Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif`
-  - Secondary Font: `Cereal, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif`
+  - Primary Font: `Source san pro, Quicksand, Roboto, sans-serif`
+  - Secondary Font: `Roboto,sans-serif`
 
 - **Font Weights**
   - Regular: `400`
@@ -356,8 +357,7 @@ The success of our AirBnB Clone Project relies on clear definition of roles and 
   - Rating and reviews
   - Favorite/save button
   - Key amenities icons
-  - Superhost badge (if applicable)
-
+  
 - **Property Details**
   - Full image gallery
   - Property description
